@@ -1,2 +1,3 @@
-# Nutrition
-Basic Nutrition analyser
+# Basic Nutrition analyser
+The Basic Nutrition Analyzer is an innovative application designed to promote healthier eating habits by bridging the gap between grocery shopping and nutritional awareness. The app allows users to input a list of grocery items, including fruits, vegetables, cereals, and other essentials. It analyzes the nutritional content of each item, providing detailed insights into key parameters such as calories, proteins, carbohydrates, vitamins, and minerals. Based on this analysis, the app identifies nutritional imbalances and offers practical suggestions, such as swapping items for healthier alternatives or adding specific ingredients to enhance dietary value.
+
